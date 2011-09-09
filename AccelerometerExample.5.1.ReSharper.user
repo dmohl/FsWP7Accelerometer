@@ -1,0 +1,103 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:MainPage.xaml" caret="3387" fromTop="15" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AppLogic.fs" caret="2134" fromTop="9" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="3049" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="298" fromTop="9" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="3615" fromTop="16" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="3615" fromTop="13" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="3615" fromTop="3" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="3615" fromTop="10" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="3615" fromTop="7" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="3615" fromTop="9" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="3615" fromTop="10" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="3615" fromTop="9" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="3670" fromTop="16" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="3668" fromTop="11" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="3615" fromTop="6" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="951" fromTop="3" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="753" fromTop="7" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="1910" fromTop="8" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="3597" fromTop="10" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="3322" fromTop="13" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="42" fromTop="1" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="3370" fromTop="14" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="1551" fromTop="11" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="1486" fromTop="11" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AppLogic.fs" caret="4119" fromTop="16" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AppLogic.fs" caret="1259" fromTop="14" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AppLogic.fs" caret="3463" fromTop="0" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AppLogic.fs" caret="2134" fromTop="9" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="507" fromTop="13" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="298" fromTop="4" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="635" fromTop="13" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="1307" fromTop="8" />
+      <File id="4230B539-DC14-4725-AD84-D0CE900D4545/f:AccelerometerProxy.fs" caret="2909" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="WP7AccelerometerReadingEventArgs`0" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="new" priority="5" />
+      <Item value="AccelerometerReadingEventArgs" priority="0" />
+      <Item value="newState" priority="1" />
+      <Item value="DateTimeOffset" priority="1" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="Microsoft" priority="0" />
+      <Item value="Devices" priority="1" />
+      <Item value="Sensors" priority="1" />
+      <Item value="AccelerometerHelper`0" priority="0" />
+      <Item value="Phone" priority="0" />
+      <Item value="return" priority="2" />
+      <Item value="AccelerometerSensor" priority="0" />
+      <Item value="ear" priority="0" />
+      <Item value="SensorState`0" priority="0" />
+      <Item value="MouseAccelerometer`0" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="accelerometer" priority="1" />
+      <Item value="e" priority="1" />
+      <Item value="DateTimeOffset`0" priority="1" />
+      <Item value="public" priority="0" />
+      <Item value="AccelerometerProxy`0" priority="0" />
+      <Item value="Accelerometer" priority="0" />
+      <Item value="Timestamp" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AccelerometerWrapper.Devices.Sensors.AccelerometerState">
+      <Item value="X" priority="0" />
+      <Item value="Y" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AccelerometerProxy.AccelerometerProxy">
+      <Item value="accelerometer" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Devices.Sensors.AccelerometerReadingEventArgs">
+      <Item value="X" priority="0" />
+      <Item value="Z" priority="0" />
+      <Item value="Timestamp" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

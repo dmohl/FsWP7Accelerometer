@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHost", "AccelerometerExample\AppHost\AppHost.csproj", "{D7CB47A3-CDF4-4C9F-A8F1-ED0D7057D27A}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "App", "AccelerometerExample\App\App.fsproj", "{4230B539-DC14-4725-AD84-D0CE900D4545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7CB47A3-CDF4-4C9F-A8F1-ED0D7057D27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CB47A3-CDF4-4C9F-A8F1-ED0D7057D27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CB47A3-CDF4-4C9F-A8F1-ED0D7057D27A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D7CB47A3-CDF4-4C9F-A8F1-ED0D7057D27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CB47A3-CDF4-4C9F-A8F1-ED0D7057D27A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7CB47A3-CDF4-4C9F-A8F1-ED0D7057D27A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4230B539-DC14-4725-AD84-D0CE900D4545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4230B539-DC14-4725-AD84-D0CE900D4545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4230B539-DC14-4725-AD84-D0CE900D4545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4230B539-DC14-4725-AD84-D0CE900D4545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

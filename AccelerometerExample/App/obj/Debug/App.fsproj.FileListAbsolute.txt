@@ -1,0 +1,10 @@
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\AccelerometerExample\AccelerometerExample\App\bin\Debug\Dependencies\FSharp.Core.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\AccelerometerExample\AccelerometerExample\App\bin\Debug\WindowsPhoneApp.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\AccelerometerExample\AccelerometerExample\App\bin\Debug\WindowsPhoneApp.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\AccelerometerExample\AccelerometerExample\App\bin\Debug\WindowsPhoneApp.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\AccelerometerExample\AccelerometerExample\App\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\AccelerometerExample\AccelerometerExample\App\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\AccelerometerExample\AccelerometerExample\App\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\AccelerometerExample\AccelerometerExample\App\obj\Debug\WindowsPhoneApp.g.resources
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\AccelerometerExample\AccelerometerExample\App\obj\Debug\WindowsPhoneApp.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\AccelerometerExample\AccelerometerExample\App\obj\Debug\WindowsPhoneApp.pdb

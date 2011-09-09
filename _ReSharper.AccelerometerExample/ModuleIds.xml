@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="C64C0FB7-A7B8-4349-AFB9-8B863F3B4709" ModuleId="AccelerometerWrapper" />
+  <Module PersistentId="917A49B7-D154-455A-A827-EBC20107D59A" ModuleId="AccelerometerProxy" />
+</Modules>

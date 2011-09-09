@@ -1,0 +1,55 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="WindowsPhoneApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:system="clr-namespace:System;assembly=mscorlib"
+    xmlns:swc="clr-namespace:System.Windows.Controls;assembly=System.Windows"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" mc:Ignorable="d" d:DesignHeight="696" d:DesignWidth="480">
+
+    <!-- Notes on the above:
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+       - This declaration causes a runtime load failure. Strangely it works for "DetailsPage"
+          d:DataContext="{d:DesignData SampleData/MainViewModelSampleData.xaml}"
+           - The DataContext declaration specifies the souce of the sample data used at design-time. 
+             This is a Xaml specification of an instance of MainViewModel, held in an .xaml file. 
+             It plays no role at runtime.  Because the data refers to types in the same F# assembly, the
+             sample data only becomes available after first compilation of this app.
+            
+           - The static resources are references to the resources specified below. 
+             For Xaml in F# files, the resources must be in a resource dictionary in the same page. -->
+
+    <!-- Specify the components of the UI. Wherever 'Binding' is used it -->
+    <!-- indicates a connection to the data context (the MainViewModel). -->
+    <!-- At design time, the DataContext is set to some sample data, above. -->
+    <!-- At run time, the DataContext is set to the actual runtime data. -->
+    <!--LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="24,24,0,12">
+            <TextBlock x:Name="ApplicationTitle" Text="AN F# APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="main page" Margin="-3,-8,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <TextBlock x:Name="Results" Text="" Margin="-3,-8,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentGrid" Grid.Row="1">
+            <TextBlock Name="txtContent" Text="X"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center" FontSize="36" />
+        </Grid>
+    </Grid>
+</phone:PhoneApplicationPage>
